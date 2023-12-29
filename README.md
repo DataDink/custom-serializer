@@ -1,2 +1,2 @@
-# custom-json
-A base for customizable JSON serialization
+# custom-serializer
+A super-generic base for customizable serialization
